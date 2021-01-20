@@ -2,4 +2,4 @@
 
 * Dr. Mostachon
 * Joker
-* Capitán America
+
